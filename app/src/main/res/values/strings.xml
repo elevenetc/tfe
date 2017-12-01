@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TFE</string>
+    <string name="login">LogIn</string>
+    <string name="name">Name</string>
 </resources>
