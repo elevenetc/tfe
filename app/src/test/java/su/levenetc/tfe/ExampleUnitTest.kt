@@ -1,4 +1,4 @@
-package su.elevenetc.tje
+package su.levenetc.tfe
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
